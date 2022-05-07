@@ -1,0 +1,165 @@
+{
+  "request": {
+    "success": true,
+    "total_time_taken": 2.6,
+    "processed_timestamp": 1643892884,
+    "search_url": "http://www.google.com/search?q=doors%2Bof%2Bstone%2Bpublication%2Bdate\u0026gl=us\u0026hl=en\u0026safe=0\u0026num=10"
+  },
+  "search_parameters": {
+    "engine": "google",
+    "type": "web",
+    "device": "desktop",
+    "auto_location": "1",
+    "google_domain": "google.com",
+    "gl": "us",
+    "hl": "en",
+    "safe": "0",
+    "news_type": "all",
+    "exclude_autocorrected_results": "0",
+    "images_color": "any",
+    "page": "1",
+    "num": "10",
+    "output": "json",
+    "csv_fields": "search_parameters.query,organic_results.position,organic_results.title,organic_results.url,organic_results.domain",
+    "query": "doors+of+stone+publication+date",
+    "action": "search",
+    "access_key": "1fbc1da514c0fe90063dedd70e54a9c8",
+    "error": {}
+  },
+  "search_information": {
+    "total_results": 14900000,
+    "time_taken_displayed": 0.82,
+    "detected_location": {},
+    "did_you_mean": {},
+    "no_results_for_original_query": false,
+    "query_displayed": "doors+of+stone+publication+date",
+    "showing_results_for": {}
+  },
+  "organic_results": [
+    {
+      "position": 1,
+      "title": "\u0027Patrick Rothfuss\u0027 Doors of Stone - TechStry",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.techstry.net/patrick-rothfuss-doors-of-stone/",
+      "domain": "www.techstry.net",
+      "displayed_url": "https://www.techstry.net \u203a patrick-rothfuss-doors-of-stone"
+    },
+    {
+      "position": 2,
+      "title": "\u0027Patrick Rothfuss\u0027 Doors of Stone - TechStry",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.techstry.net/patrick-rothfuss-doors-of-stone/",
+      "domain": "www.techstry.net",
+      "displayed_url": "https://www.techstry.net \u203a patrick-rothfuss-doors-of-stone"
+    },
+    {
+      "position": 3,
+      "title": "Doors of Stone Release Date Expected in 2022, Here\u0027s What ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://doms2cents.com/doors-of-stone-release-date-expected-in-2022-heres-what-patrick-rothfuss-has-to-say-about-it/",
+      "domain": "doms2cents.com",
+      "displayed_url": "https://doms2cents.com \u203a doors-of-stone-release-date-e..."
+    },
+    {
+      "position": 4,
+      "title": "Doors of stone confirmed release date: When are we getting ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.fedregsadvisor.com/?p=247",
+      "domain": "www.fedregsadvisor.com",
+      "displayed_url": "https://www.fedregsadvisor.com \u203a ..."
+    },
+    {
+      "position": 5,
+      "title": "The Doors of Stone | Kingkiller Chronicle Wiki | Fandom",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://kingkiller.fandom.com/wiki/The_Doors_of_Stone",
+      "domain": "kingkiller.fandom.com",
+      "displayed_url": "https://kingkiller.fandom.com \u203a wiki \u203a The_Doors_of_..."
+    },
+    {
+      "position": 6,
+      "title": "Patrick Rothfuss CONFIRMED When He is RELEASING Doors ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://thecinetalk.com/2022/01/17/patrick-rothfuss-confirmed-when-he-is-releasing-doors-of-stone/",
+      "domain": "thecinetalk.com",
+      "displayed_url": "https://thecinetalk.com \u203a Celebrity"
+    },
+    {
+      "position": 7,
+      "title": "Doors of Stone Release Date: It Is Not Coming in 2021!...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://alphanewscall.com/2021/09/12/doors-of-stone-release-date/",
+      "domain": "alphanewscall.com",
+      "displayed_url": "https://alphanewscall.com \u203a 2021/09/12 \u203a doors-of-ston..."
+    },
+    {
+      "position": 8,
+      "title": "Doors of Stone Release Date Confirmed in July 2021 By ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://thenuherald.com/2021/06/26/doors-of-stone-release-date/",
+      "domain": "thenuherald.com",
+      "displayed_url": "https://thenuherald.com \u203a 2021/06/26 \u203a doors-of-stone-rel..."
+    },
+    {
+      "position": 9,
+      "title": "Doors of Stone Release Date: It Is Not Coming in 2021! Here\u0027s ...",
+      "snippet": "",
+      "prerender": false,
+      "cached_page_url": {},
+      "related_pages_url": {},
+      "url": "https://www.michigansportszone.com/doors-of-stone/",
+      "domain": "www.michigansportszone.com",
+      "displayed_url": "https://www.michigansportszone.com \u203a doors-of-stone"
+    }
+  ],
+  "related_questions": [
+    {
+      "question": "Is The Doors of Stone coming out in 2021?Is The Doors of Stone coming out in 2021?Search for: Is The Doors of Stone coming out in 2021?Search for: Is The Doors of Stone coming out in 2021?",
+      "answer": "",
+      "title": "",
+      "displayed_url": ""
+    },
+    {
+      "question": "What is the release date for Doors of Stone?What is the release date for Doors of Stone?Search for: What is the release date for Doors of Stone?Search for: What is the release date for Doors of Stone?",
+      "answer": "",
+      "title": "",
+      "displayed_url": ""
+    },
+    {
+      "question": "Is The Doors of Stone the last?Is The Doors of Stone the last?Search for: Is The Doors of Stone the last?Search for: Is The Doors of Stone the last?",
+      "answer": "",
+      "title": "",
+      "displayed_url": ""
+    },
+    {
+      "question": "When was the wise man\u0027s fear published?When was the wise man\u0027s fear published?Search for: When was the wise man\u0027s fear published?Search for: When was the wise man\u0027s fear published?",
+      "answer": "",
+      "title": "",
+      "displayed_url": ""
+    }
+  ]
+}
